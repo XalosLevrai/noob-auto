@@ -1,4 +1,5 @@
-('C:\\ANATOLE\\appli.exepython\\noob_auto\\build\\auto_noob_auto_clicker\\PYZ-00.pyz',
+('C:\\ANATOLE\\appli.exepython\\noob '
+ 'auto\\build\\auto_noob_auto_clicker\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
